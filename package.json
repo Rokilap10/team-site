@@ -1,7 +1,7 @@
 {
   "name": "team-site",
   "version": "1.0.0",
-  "description": "5-страничный сайт на Node.js (Express)",
+  "description": "Team project with 5 static pages and Express.js",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
